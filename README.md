@@ -28,8 +28,12 @@ npm run dev
 
 ### Type-Check, Compile and Minify for Production
 
-<img src="https://raw.githubusercontent.com/lireyes22/images/refs/heads/main/supplier3.png" />
-
 ```sh
 npm run build
 ```
+
+### Images:
+
+<img src="https://raw.githubusercontent.com/lireyes22/images/refs/heads/main/supplier3.png" />
+<img src="https://raw.githubusercontent.com/lireyes22/images/refs/heads/main/supplierLogin.png" />
+<img src="https://raw.githubusercontent.com/lireyes22/images/refs/heads/main/tabla2.png" />
